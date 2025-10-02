@@ -5,7 +5,7 @@ Following steps taken to complete the task:
 
 **--->** Launched the EC2 instance and installed **Docker** and to integrate with **Netdata** provided command **(chmod 777 ///var/run/docker.sock)**
 
-Using the command installed Netdata with Docker ( docker run -d --name=netdata -p 19999:19999 netdata/netdata) and after installing verified Docker Images & Containers and did some playaround to confirm that it is working fine.
+Using the command installed **Netdata with Docker** ( docker run -d --name=netdata -p 19999:19999 netdata/netdata) and after installing verified Docker Images & Containers and did some playaround to confirm that it is working fine.
 
 <img width="762" height="82" alt="Cont is created" src="https://github.com/user-attachments/assets/b7012540-48a7-408a-9189-059d3417f206" />
 
